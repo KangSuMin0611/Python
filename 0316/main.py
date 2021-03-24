@@ -2,8 +2,8 @@ import requests
 from bs4 import BeautifulSoup as bs
 
 MEMBER_DATA = {
-    'merberID' : 'wkdghtn1218',
-    'memberPassword' : 'wkdghtn7897'
+    'merberID' : '아이디',
+    'memberPassword' : '비번'
 }
 
 with requests.Session() as s: 
